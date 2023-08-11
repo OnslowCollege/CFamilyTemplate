@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Clang (default)",
+    "compilers": {
+      "CC": "/usr/bin/clang",
+      "CXX": "/usr/bin/clang++"
+    }
+  }
+]
